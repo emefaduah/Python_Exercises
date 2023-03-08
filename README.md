@@ -1,2 +1,2 @@
-# Python_Excercises
-These are excercises to test my knowledge in Python at Blossom Academy 
+# Python_Exercises
+These are exercises to test my knowledge in Python at Blossom Academy 
